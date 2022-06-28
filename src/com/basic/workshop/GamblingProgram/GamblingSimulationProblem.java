@@ -39,7 +39,7 @@ public class GamblingSimulationProblem {
 
             }
             if(cashInHand == 150 || cashInHand == 50) {
-                System.out.println("Player would like to resign for current day"+i);
+                System.out.println("Player would like to resign for current day" + i);
 
             }
             TOTAL_AMOUNT = TOTAL_AMOUNT + cashInHand;
