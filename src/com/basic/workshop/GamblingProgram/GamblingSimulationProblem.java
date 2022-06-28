@@ -1,3 +1,4 @@
+
 package com.basic.workshop;
 
 import java.util.Scanner; // import scanner class
